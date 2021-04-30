@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+h1 { 
+   color: blue;
+  }
+p  {
+   font-family: arial;
+   color: green;
+  }
+  
+</style>
+</head>
+
+<h1>Projeto de pep1</h1>
+<p>Este é um projeto de pep1.</p>
+
+</html>
